@@ -1,6 +1,6 @@
 # OpenSSL Symmetric Cipher Performance Benchmark
 
-**Author:** Edoardo Simonetti Spallotta 2077561
+**Author:** Edoardo Simonetti Spallotta
 **Date:** October 19, 2025
 
 ## 1. Introduction
