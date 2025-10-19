@@ -1,0 +1,9 @@
+build/*
+data/*
+report 2.log
+report.log
+report.aux
+report 3.log
+report.out
+report.synctex.gz
+report.tex
